@@ -41,7 +41,7 @@ Built a fully functional, browser-based CRM to manage my own job search at scale
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilbert-maglasang/)
-- 📧 [gmaglasang1@gmail.com](mailto:gmaglasang1@gmail.com)
+- 📧 [gmaglasang1@yahoo.com](mailto:gmaglasang1@yahoo.com)
 - 🌐 [Portfolio](https://gmaglasang.github.io)
 
 > *Currently open to Senior BI Developer, Power BI Developer, and Data Analyst roles — remote preferred.*
