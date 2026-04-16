@@ -28,19 +28,19 @@ I turn raw data into decisions. With 10+ years of experience across enterprise B
 
 ## 🚀 Featured Projects
 
-### SaaS Metrics Dashboard · *BI Live Demo*
+### SaaS Metrics Dashboard · *BI Live Demo + .pbix*
 
-Built an interactive, Power BI-style SaaS executive dashboard to demonstrate what a real reporting deliverable looks and behaves like — without requiring Power BI Desktop or workspace access.
+Built an interactive, Power BI-style SaaS executive dashboard — and published the actual `.pbix` file so hiring managers can open the model directly in Power BI Desktop.
 
-**Why I built it:** Screenshots don't show how a dashboard actually works. Filters, page navigation, and live chart updates are the story. This demo tells it.
+**Why I built it:** Screenshots don't show how a dashboard actually works. Filters, page navigation, and live chart updates are the story. The live demo tells it. The `.pbix` proves the model.
 
-**Key features:** 3 report pages (Executive Overview, Revenue Breakdown, Customer Health) · 4 dynamic filters · Live KPI cards · Chart.js visualizations · 100% browser-based, no install required
+**Key features:** 3 report pages · 4 dynamic filters · Star schema data model · 41 DAX measures · 100% fictional data
 
-👉 **[View SaaS Metrics Dashboard →](https://gmaglasang.github.io/App_Build/saas-metrics/demo.html)** · **[View Portfolio](https://github.com/gmaglasang/gmaglasang.github.io)**
+👉 **[Open Live Demo →](https://gmaglasang.github.io/App_Build/saas-metrics/demo.html)** · **[Download .pbix →](https://github.com/gmaglasang/powerbi-saas-metrics)**
 
 ---
 
-### Power BI DAX Showcase · *Real Model, Annotated*
+### Power BI DAX Showcase · *Real Models, Annotated*
 
 8 production DAX measures extracted live from two real Power BI models — a SaaS dashboard and a Vendor Quality Scorecard. Each measure is fully annotated with the pattern, the problem it solves, and why it's non-trivial.
 
@@ -48,7 +48,7 @@ Built an interactive, Power BI-style SaaS executive dashboard to demonstrate wha
 
 **Concepts covered:** Filter context · Context transition · `CALCULATETABLE` + `ADDCOLUMNS` · Cohort analysis · Point-in-time snapshots · `ISINSCOPE` · Disconnected tables
 
-👉 **[View DAX Showcase →](https://github.com/gmaglasang/powerbi-dax-showcase)** · **[View Portfolio](https://github.com/gmaglasang/gmaglasang.github.io)**
+👉 **[View DAX Showcase →](https://github.com/gmaglasang/powerbi-dax-showcase)**
 
 ---
 
@@ -60,7 +60,7 @@ Built a fully functional, browser-based CRM to manage my own job search at scale
 
 **Key features:** Status tracking (Hot, Interview, Replied, Ghosted) · AI-assisted reply drafting · Excel export · 100% local — your data never leaves your machine
 
-👉 **[View LinkedIn Job Search CRM →](https://gmaglasang.github.io/App_Build/linkedin-crm/demo.html)** · **[View Portfolio](https://github.com/gmaglasang/gmaglasang.github.io)**
+👉 **[Open Live Demo →](https://gmaglasang.github.io/App_Build/linkedin-crm/demo.html)**
 
 ---
 
