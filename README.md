@@ -26,7 +26,21 @@ I turn raw data into decisions. With 10+ years of experience across enterprise B
 
 ---
 
-## 🚀 Featured Project — LinkedIn Job Search CRM
+## 🚀 Featured Projects
+
+### SaaS Metrics Dashboard · *BI Live Demo*
+
+Built an interactive, Power BI-style SaaS executive dashboard to demonstrate what a real reporting deliverable looks and behaves like — without requiring Power BI Desktop or workspace access.
+
+**Why I built it:** Screenshots don't show how a dashboard actually works. Filters, page navigation, and live chart updates are the story. This demo tells it.
+
+**Key features:** 3 report pages (Executive Overview, Revenue Breakdown, Customer Health) · 4 dynamic filters · Live KPI cards · Chart.js visualizations · 100% browser-based, no install required
+
+👉 **[View SaaS Metrics Dashboard →](https://gmaglasang.github.io/App_Build/saas-metrics/demo.html)** · **[View Portfolio](https://github.com/gmaglasang/gmaglasang.github.io)**
+
+---
+
+### LinkedIn Job Search CRM · *App Live Demo*
 
 Built a fully functional, browser-based CRM to manage my own job search at scale — tracking 392 recruiter conversations, 862 connections, and 200 applications in a single file with no backend required.
 
@@ -34,7 +48,7 @@ Built a fully functional, browser-based CRM to manage my own job search at scale
 
 **Key features:** Status tracking (Hot, Interview, Replied, Ghosted) · AI-assisted reply drafting · Excel export · 100% local — your data never leaves your machine
 
-👉 **[View Live Demo](https://gmaglasang.github.io/App_Build/linkedin-crm/)** · **[View Portfolio](https://github.com/gmaglasang/gmaglasang.github.io)**
+👉 **[View LinkedIn Job Search CRM →](https://gmaglasang.github.io/App_Build/linkedin-crm/demo.html)** · **[View Portfolio](https://github.com/gmaglasang/gmaglasang.github.io)**
 
 ---
 
