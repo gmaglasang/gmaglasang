@@ -40,6 +40,18 @@ Built an interactive, Power BI-style SaaS executive dashboard to demonstrate wha
 
 ---
 
+### Power BI DAX Showcase · *Real Model, Annotated*
+
+8 production DAX measures extracted live from two real Power BI models — a SaaS dashboard and a Vendor Quality Scorecard. Each measure is fully annotated with the pattern, the problem it solves, and why it's non-trivial.
+
+**Why I built it:** Most DAX portfolios are tutorials. These are real measures from real models — churn MRR with first-churn detection, cohort retention, volume-weighted defect scoring, and disconnected slicer patterns.
+
+**Concepts covered:** Filter context · Context transition · `CALCULATETABLE` + `ADDCOLUMNS` · Cohort analysis · Point-in-time snapshots · `ISINSCOPE` · Disconnected tables
+
+👉 **[View DAX Showcase →](https://github.com/gmaglasang/powerbi-dax-showcase)** · **[View Portfolio](https://github.com/gmaglasang/gmaglasang.github.io)**
+
+---
+
 ### LinkedIn Job Search CRM · *App Live Demo*
 
 Built a fully functional, browser-based CRM to manage my own job search at scale — tracking 392 recruiter conversations, 862 connections, and 200 applications in a single file with no backend required.
