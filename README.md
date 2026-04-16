@@ -1,8 +1,8 @@
 # Hi, I'm Guilbert Maglasang 👋
 
-**Senior Business Intelligence Developer** · Houston, TX · Open to Work
+**Senior Power BI Developer** · Houston, TX · Open to Work
 
-I turn raw data into decisions. With 10+ years of experience across enterprise BI, I specialize in building Power BI solutions that business leaders actually use — from semantic model design through deployment, governance, and adoption.
+I turn raw data into decisions. With 20+ years in data and analytics — including enterprise roles at Microsoft, Corteva Agriscience, Anheuser-Busch, and TC Energy — I specialize in Power BI solutions that business leaders actually use, from semantic model design through deployment, governance, and adoption.
 
 ---
 
@@ -42,9 +42,9 @@ Built an interactive, Power BI-style SaaS executive dashboard — and published 
 
 ### Power BI DAX Showcase · *Real Models, Annotated*
 
-8 production DAX measures extracted live from two real Power BI models — a SaaS dashboard and a Vendor Quality Scorecard. Each measure is fully annotated with the pattern, the problem it solves, and why it's non-trivial.
+8 DAX measures from two Power BI models — a SaaS Metrics Dashboard and a Vendor Quality Scorecard — each fully annotated with the pattern, the problem it solves, and why it's non-trivial.
 
-**Why I built it:** Most DAX portfolios are tutorials. These are real measures from real models — churn MRR with first-churn detection, cohort retention, volume-weighted defect scoring, and disconnected slicer patterns.
+**Why I built it:** Most DAX portfolios are tutorials. These are working measures from models I built — churn MRR with first-churn detection, cohort retention, volume-weighted defect scoring, and disconnected slicer patterns.
 
 **Concepts covered:** Filter context · Context transition · `CALCULATETABLE` + `ADDCOLUMNS` · Cohort analysis · Point-in-time snapshots · `ISINSCOPE` · Disconnected tables
 
