@@ -4,6 +4,10 @@
 
 I turn raw data into decisions. With 20+ years in data and analytics — including enterprise roles at Microsoft, Corteva Agriscience, Anheuser-Busch, and TC Energy — I specialize in Power BI solutions that business leaders actually use, from semantic model design through deployment, governance, and adoption.
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-2B2B2B?logo=powerbi&logoColor=F2C811) ![SQL](https://img.shields.io/badge/SQL-336791) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white) ![Power Query](https://img.shields.io/badge/Power%20Query%20(M)-217346) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF)
+
+🌐 **[gmaglasang.github.io →](https://gmaglasang.github.io)** — portfolio with live dashboard demos
+
 ---
 
 ## 🔧 What I Do
@@ -30,6 +34,8 @@ I turn raw data into decisions. With 20+ years in data and analytics — includi
 
 ### SaaS Metrics Dashboard · *BI Live Demo + .pbix*
 
+[![SaaS Metrics Dashboard — Executive Overview](https://gmaglasang.github.io/assets/saas-overview.png)](https://gmaglasang.github.io/App_Build/saas-metrics/demo.html)
+
 Built an interactive, Power BI-style SaaS executive dashboard — and published the actual `.pbix` file so hiring managers can open the model directly in Power BI Desktop.
 
 **Why I built it:** Screenshots don't show how a dashboard actually works. Filters, page navigation, and live chart updates are the story. The live demo tells it. The `.pbix` proves the model.
@@ -53,6 +59,8 @@ Built an interactive, Power BI-style SaaS executive dashboard — and published 
 ---
 
 ### LinkedIn Job Search CRM · *App Live Demo*
+
+[![LinkedIn Job Search CRM — Messages](https://gmaglasang.github.io/assets/crm-messages.png)](https://gmaglasang.github.io/App_Build/linkedin-crm/demo.html)
 
 Built a fully functional, browser-based CRM to manage my own job search at scale — tracking 392 recruiter conversations, 862 connections, and 200 applications in a single file with no backend required.
 
